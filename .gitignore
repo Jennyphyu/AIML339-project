@@ -1,0 +1,12 @@
+asl_mae_model/
+asl_model/
+asl_model_*/
+checkpoint-*/
+wlasl100/
+*.safetensors
+*.pt
+*.bin
+*.task
+pose_sequences.npy
+.ipynb_checkpoints/
+__pycache__/
